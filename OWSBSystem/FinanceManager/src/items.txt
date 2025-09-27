@@ -1,0 +1,5 @@
+I001,Laptop,S001,High-end-laptop,3500.0,100,10,200,7,false
+I002,Monitor,S002,27-inch-display,850.0,200,15,300,5,false
+I003,Keyboard,S001,Mechanical-keyboard,120.0,47,5,150,3,false
+I004,Mouse,S003,Wireless-mouse,75.0,80,10,120,2,false
+0005,Flash Card,S004,Very Fast,50.0,250,12,100,4,false
