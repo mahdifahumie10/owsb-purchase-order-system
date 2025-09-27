@@ -1,5 +1,0 @@
-admin1,admin123,Admin
-fm001,fm123,FM
-sm001,sm123,SM
-pm001,pm123,PM
-im001,im123,IM

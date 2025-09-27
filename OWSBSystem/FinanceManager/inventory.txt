@@ -1,4 +1,0 @@
-I001,Laptop,100
-I002,Monitor,200
-I003,Keyboard,50
-I004,Mouse,80
