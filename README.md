@@ -21,7 +21,7 @@ The system handles suppliers, purchase requests, purchase orders, sales, invento
 ## How to Run:
 - Extract the zip file
 - Open Apache Netbeans IDE 25 -> Open Project
-- Open the owsb-purchase-order-system-main folder -> select owsb and open it in Netbeaks
+- Open the owsb-purchase-order-system-main folder -> select owsb and open it in Netbeans
 - Run the program. Usernames and passwords can be found in the users.txt file uploaded above
   
 
