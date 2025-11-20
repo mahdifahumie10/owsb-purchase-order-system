@@ -1,6 +1,6 @@
 # OWSB Purchase Order Management System  
 
-A simple purchase order management system developed as a university project in collaboration with group mates.
+A simple purchase order management system developed as a university project in collaboration with group mates, applying OOP concepts.
 The system handles suppliers, purchase requests, purchase orders, sales, inventory, and payments.  
 
 ## Features
